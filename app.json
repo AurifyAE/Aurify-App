@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Aurify",
+    "slug": "aurify",
+    "description": "Aurify App",
+    "primaryColor": "#0c22cb",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#0c22cb"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0c22cb"
+      },
+      "package": "com.thabumon.aurify"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "18deb24e-12b4-4490-9411-455868bd51ff"
+      }
+    },
+    "owner": "thabumon"
+  }
+}

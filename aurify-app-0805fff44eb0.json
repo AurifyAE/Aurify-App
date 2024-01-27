@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aurify-app",
+  "private_key_id": "0805fff44eb02413ffb63baf148c6a63b9471853",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/uehO7Q/nNUsp\nUEff42j7M9vcTbjIjZbsSxkSARZG6j+W4di4JVyfgTtE29lyHRbSGjE1dix4E/Ka\n1W1SVYg6XEIk3kPrFs00Z7RFQkKF2ZJPLTjX9kh1ruu7CAk1b0SM5S79eFANth49\nI5DTDsoN3+0wuHYL7mSj+0UpFNU5yntGEkUajQ14OZmh5EeStzDbqXoFm9Jd0bDs\nizP957nUDPjMLkJqPTvsp8X/qq5kT+OWUVlMshdO2N6Lj4+wU0euJUUiGSCzoaC0\nFRB8iXoiJGehaVp0AF0xLp5l+6+RhcVnhL9JTtdHOYV7c30oGc/31eDWHnSJThc7\nl3ADTURjAgMBAAECggEAEpahsVVGn3IJUX4ZGdngicpjXJ6kdb1UjqBRU++LC2EW\nvTg0XNYyfrx21JxEHs43MjOb5cUJVrMIaH6c1Mi6Jn5fY1exWg+h4ZzUW4qrDHMl\nvktyIW4dZFuLO1zyF54sFUT7I1QQ3uNzVxYlqnDaojG9u2WG/G0mkMeB0xPUAIA4\nLzaEAwAgXrsjQbRiVnH0JOgZcMKcmAm0xarl3gClmLGgjsR/a3GdEtT0zIWn5Jut\nwyBggWFhTqDuyZxEDr026XgSChLg0TVh1T0vndmjuqzlpbLdr6cztzHCSHwrF5cb\nuMU2mrK8rK/8M1ZVP086wWIAiKiNZAjZqYXvf+aasQKBgQDieESOg2dts1I+P4R4\nbSrRW+FegxnM9vp0pz22gLlQ081FLo0AddKASr21jenwkcaTXn11OSO+4fbhFN8n\nzKB2FcrNxLSrKix0fuSvNGFNg5IZhNuWKz5dZENdfVtEvZ29su2S6ursHvGnwvYj\n/rrmnZERWtknUBLMfbPacA7KhwKBgQDYud9PjJXlb4J47EJ6BYvyR5uxwVuHwKyo\nMQKSABoKL5SARVprxxb9hz3NBUZn1XRZDKG0dsDr4oTIlPHE1loI2EstEKTi9b+B\nWtvmCNoHilImry/qsxYmOINodpbDzABkiZqp1YNKBa+JI8yx+Wgs7xFngf7fnLy2\n3SuAES9iRQKBgFwPicbpEdVdTPRy+5W8wugiUoYKAyX3zC45gfO7dhmuT8ZsuvLR\n8oUmXOH903hwuelUQumxFZ/V2Xb79g8Gtr/p8ewdp1fhJ/sfTjUOtPM+pdhr0pvD\n7nEmfd/2QnC6J/JiVwMfLepYVeHddhOBzFZM/Rix9o5tlYa9HqyQWuLnAoGAWpEa\nI8kRHucBc/zvLsTAnceU5axyzoES5dpNQ6vtNdJ6UTwqNB3nmpz4k4Ofz2ZhD5F6\nxcpWhnyLlrK/cc1NpKKWj8eD0CB4HdtVR4Ttb/c6q1XMRVz/ZYt6Rp5AFKRciacD\nTfOewMEtgLbIJJugEB77e/DUDKgYKKa2Nfd4gK0CgYA+4FyKn+A2aXKuI8W1Qv54\nr0X/j6y4xFJS184fyKM43OPptzVByHGtzwodAQniBHMvkrbwJGStd2gx7tbt9sjr\nzkNmGJqf+Jxtpt1Q4gmn4x82i9OxdbsOXp3i49s5UUqXWCh6usXwXlWHdEwD64is\nbiWxz+K3gbuV9AMkX4iHIA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "play-console-service-account@aurify-app.iam.gserviceaccount.com",
+  "client_id": "103010248819723186366",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/play-console-service-account%40aurify-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
